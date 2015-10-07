@@ -1,2 +1,2 @@
-# math-tables
-Math table generators for probability, log distributions etc.
+# Python-MathDistributions 
+Collection of table generators for probability, log distributions etc
